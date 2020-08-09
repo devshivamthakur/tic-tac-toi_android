@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">tic tac toi</string>
-    <string name="todo">TODO</string>
+
     <string name="cntdsc">hello</string>
+    <string name="winn">winner is </string>
+    <string name="replay">Replay</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
 </resources>
