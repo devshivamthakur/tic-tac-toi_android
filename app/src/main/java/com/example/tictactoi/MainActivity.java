@@ -29,7 +29,7 @@ public void playertab(View v)
 {
     ImageView img=(ImageView)v;
     int tapped=Integer.parseInt(img.getTag().toString());
-    if(gamestate[tapped]==3)
+    if(gamestate[tapped]==3)          // if 3 it means that block is empty
     {
 
         gamestate[tapped]=player;
